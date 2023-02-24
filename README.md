@@ -37,6 +37,10 @@ SOFTWARE.
 * Run example in `./test_bb_mocbs `
 * This example shows how to use the code.
 
+## Notes
+
+* For some historical reason, the classes related to BB-MO-CBS is often named with "NB" where NB stands for node-based. This name "Node-Based" is no more used and the true name should be Binary Branching (BB).
+
 ## References
 
 Please cite the corresponding papers if you find anything in this repository helpful.
