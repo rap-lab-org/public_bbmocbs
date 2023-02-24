@@ -2,7 +2,7 @@
 
 This repository provides C++ Implementation of the Binary Branching Multi-Objective Conflict-Based Search (BB-MO-CBS) algorithm [1] for Multi-Objective Multi-Agent Path Finding problem. This project is still under active development. 
 
-BB-MO-CBS is a new algorithm that outperforms our prior MO-CBS [2].
+BB-MO-CBS is a new algorithm that outperforms our prior MO-CBS [2], whose repo can be found [here](https://github.com/wonderren/public_cppmomapf).
 
 The code is distributed for academic and non-commercial use.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
@@ -53,3 +53,4 @@ Please cite the corresponding papers if you find anything in this repository hel
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren21mocbs_tase.txt)]
 [[Paper](https://wonderren.github.io/files/ren22_mocbs_tase_final.pdf)]
 [[Talk](https://youtu.be/KI-BVhsjg0I)]
+[[Code](https://github.com/wonderren/public_cppmomapf)]
