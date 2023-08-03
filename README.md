@@ -45,12 +45,14 @@ SOFTWARE.
 
 Please cite the corresponding papers if you find anything in this repository helpful.
 
-* [1] TODO
+* [1] Binary Branching Multi-Objective Conflict-Based Search for Multi-Agent Path Finding\
+**Zhongqiang Ren**, Jiaoyang Li, Han Zhang, Sven Koenig, Sivakumar Rathinam and Howie Choset.\
+International Conference on Automated Planning and Scheduling (ICAPS), 2023.\
+[[Bibtex](https://wonderren.github.io/files/bibtex_ren23bbmocbs.txt)]
+[[Paper](https://wonderren.github.io/files/ren23_BBMOCBS_ICAPS23.pdf)]
 
 * [2] A Conflict-Based Search Framework for Multi-Objective Multi-Agent Path Finding\
 	**Zhongqiang Ren**, Sivakumar Rathinam, and Howie Choset.\
 	<i>IEEE Transactions on Automation Science and Engineering (T-ASE)</i>, 2022.\
 [[Bibtex](https://wonderren.github.io/files/bibtex_ren21mocbs_tase.txt)]
 [[Paper](https://wonderren.github.io/files/ren22_mocbs_tase_final.pdf)]
-[[Talk](https://youtu.be/KI-BVhsjg0I)]
-[[Code](https://github.com/wonderren/public_cppmomapf)]
